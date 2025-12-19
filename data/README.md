@@ -1,7 +1,18 @@
-# Dataset
+## Dataset Description
 
-This repository expects a file named `vgsales.csv` in this folder:
+This project uses a public video game sales dataset containing historical
+global sales data by title, platform, genre, and region.
 
-- `data/vgsales.csv`
+### Columns include:
+- Name
+- Platform
+- Year
+- Genre
+- Publisher
+- NA_Sales
+- EU_Sales
+- JP_Sales
+- Other_Sales
+- Global_Sales
 
-If you don't want to commit raw data to GitHub, keep the CSV local and add it to `.gitignore`.
+Sales figures are reported in millions of units.
