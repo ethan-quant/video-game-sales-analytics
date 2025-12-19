@@ -1,3 +1,5 @@
+A data analytics case study using clustering to explore regional demand patterns in the global video game market.
+
 # Video Game Sales Analytics
 
 Portfolio-ready analytics project that explores **global video game sales** and uses **K-means clustering** and **PCA** to identify regional market patterns.
